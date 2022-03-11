@@ -1,0 +1,23 @@
+{
+  "name": "mercadoliebre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adela015/Heroku-Mercado-Liebre-Cervantes-Ortiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adela015/Heroku-Mercado-Liebre-Cervantes-Ortiz/issues"
+  },
+  "homepage": "https://github.com/Adela015/Heroku-Mercado-Liebre-Cervantes-Ortiz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
